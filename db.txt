@@ -15,11 +15,9 @@ country 00:
 	# Channel 14. Only JP enables this and for 802.11b only
 	(2474 - 2494 @ 20), (30), NO-OFDM
 	# Channel 36 - 64
-	(5150 - 5350 @ 80), (30)
-	# Channel 100 - 144
-	(5470 - 5730 @ 160), (30)
-	# Channel 149 - 165
-	(5730 - 5850 @ 80), (30)
+	(5150 - 5350 @ 160), (30)
+	# Channel 100 - 165
+	(5470 - 5850 @ 160), (30)
 	# IEEE 802.11ad (60GHz), channels 1..6
 	(57000 - 71000 @ 2160), (44)
 
@@ -1571,11 +1569,9 @@ country US: DFS-FCC
 	# Channel 14. Only JP enables this and for 802.11b only
 	(2474 - 2494 @ 20), (30), NO-OFDM
 	# Channel 36 - 64
-	(5150 - 5350 @ 80), (30)
-	# Channel 100 - 144
-	(5470 - 5730 @ 160), (30)
-	# Channel 149 - 165
-	(5730 - 5850 @ 80), (30)
+	(5150 - 5350 @ 160), (30)
+	# Channel 100 - 165
+	(5470 - 5850 @ 160), (30)
 	# IEEE 802.11ad (60GHz), channels 1..6
 	(57000 - 71000 @ 2160), (44)
 
